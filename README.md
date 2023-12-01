@@ -2,7 +2,7 @@
 
 ## What is Bac Archive?
 
-In the quest for academic excellence, we observed that the majority of resources available to the average Moroccan student for exam preparation are outdated, hailing from the 2000s. Unfortunately, these materials are not tailored to meet the needs of today's Bac students aiming for a high educational standard without additional effort. Enter Bac Archive – a forward-thinking, one-way open-source project with the mission to offer top-notch, contemporary educational resources for free, all conveniently located in one accessible platform!
+In the quest for academic excellence, we observed that the majority of ressources available to the average Moroccan student for exam preparation are outdated, hailing from the 2000s. Unfortunately, these materials are not tailored to meet the needs of today's Bac students aiming for a high educational standard without additional effort. Enter Bac Archive – a forward -thinking, one-way open-source project with the mission to offer top-notch, contemporary educational ressources for free, all conveniently located in one accessible platform!
 
 ## Roadmap 🗺️
 
